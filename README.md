@@ -29,7 +29,8 @@ Yeh ek **powerful AI Chatbot** hai jo aapko **Python programming** step-by-step 
 
 🔗 **Try the Chatbot Now**: https://musab-bhai.github.io/unsual/
 
-🔗 [![PGC Reaction Bot](https://img.shields.io/badge/PGC%20Reaction%20Bot-🤖✨-blue)](https://web-production-f490a.up.railway.app/)
+🔗 🔗 [**PGC Reaction Bot 🤖✨ – Smart Student Responses 🎓**](https://web-production-f490a.up.railway.app/)
+
 
 ---
 
