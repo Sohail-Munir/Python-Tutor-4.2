@@ -30,7 +30,7 @@ Yeh ek **powerful AI Chatbot** hai jo aapko **Python programming** step-by-step 
 🔗 **Try the Chatbot Now**:  [**Python Tutor 🤖✨ – Python-Tutor-4.2 🐍**](https://musab-bhai.github.io/unsual/)
 
 
-🔗  [**PGC Reaction Bot 🤖✨ – Smart Student Responses 🎓**](https://web-production-b7e79.up.railway.app/)
+🔗  [**PGC Reaction Bot 🤖✨ – Smart Student Responses 🎓**](https://web-production-06659.up.railway.app/)
 
 
 ---
